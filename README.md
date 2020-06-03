@@ -1,4 +1,4 @@
-# flutter_library_bloc_demo
+# Flutter Bloc Library Demo
 
 A new Flutter project.
 
